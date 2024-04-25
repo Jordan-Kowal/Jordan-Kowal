@@ -23,5 +23,5 @@
 </div>
 
 <div align="center">
-    <sub><i>Made with <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">GitHub Readme Stats</a></i></sub>
+    <sub><i>Made with <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a></i></sub>
 </div>
