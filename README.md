@@ -9,7 +9,7 @@
 
 <br />
 
-<p align="center" justify="center">
+<div align="center">
 <!--   <div align="center">
     <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Jordan-Kowal&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" />
   </div> -->
@@ -20,4 +20,8 @@
     <img width="35%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Kowal&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8" />
     <img width="58%" width="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jordan_Kowal&theme=darcula&layout=compact&langs_count=8&bg_color=00000000&hide_border=true" />
   </div>
-</p>
+</div>
+
+<div align="center">
+    <sub><i>Made with <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a></i></sub>
+</div>
