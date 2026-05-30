@@ -5,5 +5,5 @@
 - 🤖 Leveraging AI to ship faster and smarter
 - ⚡ Hyper, self-taught, and cheerful
 - 🍰 Actively play sports (🧗🏋️🏃) so I can eat more
-- 📫 Feel free to checkout my [Personal Website](https://resume.jkdev.app/) and my [Linkedin
+- 📫 Feel free to checkout my [Personal Website](https://www.jordankowal.com/) and my [Linkedin
   Profile](https://www.linkedin.com/in/jordan-kowal/)
