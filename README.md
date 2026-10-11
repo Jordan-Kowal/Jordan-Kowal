@@ -1,9 +1,20 @@
-<h1 align="center">✨ Hello there! I'm Jordan Kowal ✨</h1>
-<h3 align="center"><img src="https://alan.com/website-assets/favicon/favicon.ico" height=18 /> Software engineer at Alan <img src="https://alan.com/website-assets/favicon/favicon.ico" height=18 /></h3>
+<a href="https://www.jordankowal.com/?open=hobbies"><img src="assets/banner.svg" width="100%" alt="Jordan Kowal, Player 1, software engineer" /></a>
 
-- 💡 Fullstack engineer with a product mindset
-- 🤖 Leveraging AI to ship faster and smarter
-- ⚡ Hyper, self-taught, and cheerful
-- 🍰 Actively play sports (🧗🏋️🏃) so I can eat more
-- 📫 Feel free to checkout my [Personal Website](https://www.jordankowal.com/) and my [Linkedin
-  Profile](https://www.linkedin.com/in/jordan-kowal/)
+<p align="center">
+  <a href="https://www.jordankowal.com/"><img src="assets/btn-start.svg" height="52" alt="Press start" /></a>
+  <a href="https://www.jordankowal.com/?open=trailer"><img src="assets/btn-trailer.svg" height="52" alt="Watch trailer" /></a>
+  <a href="https://www.jordankowal.com/files/resume.pdf"><img src="assets/btn-resume.svg" height="52" alt="Resume" /></a>
+  <a href="https://www.linkedin.com/in/jordan-kowal/"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn" /></a>
+</p>
+
+<table align="center">
+  <tr>
+    <td valign="top"><img src="assets/player-card.svg" width="360" alt="Player card" /></td>
+    <td valign="top"><img src="assets/character-sheet.svg" width="500" alt="Character sheet" /></td>
+  </tr>
+</table>
+
+<p align="center"><img src="assets/inventory.svg" width="100%" alt="Inventory: languages, tools, strengths" /></p>
+
+<!-- Redrawn daily by .github/workflows/starfall.yml -->
+<p align="center"><img src="assets/starfall.svg" width="100%" alt="Shooting stars caught by my busiest days on GitHub" /></p>
